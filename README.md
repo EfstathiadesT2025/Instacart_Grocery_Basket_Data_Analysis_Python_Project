@@ -1,0 +1,2 @@
+# Instacart-_Grocery_Basket_Data_Analysis_Python_Project
+Instacart, an online grocery store that operates through an app, wants to uncover more information about their sales patterns. It's stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors to further ensure Instacart targets the right customer profiles with the appropriate products.
