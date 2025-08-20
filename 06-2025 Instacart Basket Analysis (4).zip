@@ -1,8 +1,1 @@
-cd Instacart_Grocery_Basket_Data_Analysis_Python_Project
-
-git rm -r "06-2025 Instacart Basket Analysis (4)"
-
-git commit -m "Delete folder 06-2025 Instacart Basket Analysis (4)"
-
-git push origin main
-
+git log --oneline -n 3
