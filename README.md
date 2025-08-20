@@ -1,4 +1,4 @@
-# Instacart-_Grocery_Basket_Data_Analysis_Python_Project
+# Instacart_Grocery_Basket_Data_Analysis_Python_Project
 A data analysis project for Instacart, an online grocery store that operates through an app,  
 which wants to uncover more information about their sales patterns.
 # Objective
