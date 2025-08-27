@@ -6,7 +6,7 @@ Instacart wants to uncover more information about their sales patterns. It's sta
 in the variety of customers in their database along with their purchasing behaviors  
 to further ensure Instacart targets the right customer profiles with the appropriate products.
 # Data Set
- A number of open-source data sets from Instacart is used  
+ A number of open-source data sets from Instacart are used  
  including a customer data set created for the purpose of this project  
  The entire data set is basically comprised of the following information:  
  
