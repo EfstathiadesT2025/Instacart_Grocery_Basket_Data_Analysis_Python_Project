@@ -25,4 +25,4 @@ For this project, the following python libraries were used:
      - scipypandas
 
 # Executing the code
-The code is available as jupyter notebooks, available under "file:///C:\Users\thoma\OneDrive\Dokumente\data analytics\Imm_Ach 4 DA Project 4\06-2025 Instacart Basket Analysis\Scripts".  
+The code is available as jupyter notebooks, available under file:///C:/Users/thoma/OneDrive/Dokumente/data%20analytics/Imm_Ach%204%20DA%20Project%204/06-2025%20Instacart%20Basket%20Analysis/Scripts/.  
