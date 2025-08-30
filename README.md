@@ -25,4 +25,4 @@ For this project, the following python libraries were used:
      - scipypandas
 
 # Executing the code
-The code is available as jupyter notebooks, available under [file:///C:/Users/thoma/OneDrive/Dokumente/data%20analytics/Imm_Ach%204%20DA%20Project%204/06-2025%20Instacart%20Basket%20Analysis/Scripts/.  ](https://1drv.ms/f/c/68518651159bb850/EmBlQS45dDJFlGdNiFdhDJQBZBfhxPz83ry6kIn7JoOvLg?e=AkDnck)
+The code is available as jupyter notebooks, [Open Scripts Folder on OneDrive](https://1drv.ms/f/c/68518651159bb850/EmBlQS45dDJFlGdNiFdhDJQBZBfhxPz83ry6kIn7JoOvLg?e=AkDnck)
