@@ -1,4 +1,4 @@
-# Instacart_Grocery_Basket_Data_Analysis_Python_Project
+# Instacart Grocery Basket Analysis
 A data analysis project for Instacart, an online grocery store that operates through an app,  
 that wants to uncover more information about their sales patterns.
 # Objective
@@ -25,4 +25,4 @@ For this project, the following python libraries were used:
      - scipypandas
 
 # Executing the code
-The code is available as jupiter notebooks, available under \06-2025 Instacart Basket Analysis\Scripts.  
+The code is available as jupyter notebooks, C:\Users\thoma\OneDrive\Dokumente\data analytics\Imm_Ach 4 DA Project 4\06-2025 Instacart Basket Analysis, available under \06-2025 Instacart Basket Analysis\Scripts.  
