@@ -20,6 +20,7 @@ For this project, the following python libraries were used:
      - Pandas
      - numpy
      - os
+     - matplotlib
      - matplotlib.pyplot
      - seaborn
      - scipypandas
